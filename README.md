@@ -11,7 +11,7 @@ O projeto é uma TODO List (Lista de tarefas)
 <p align="left"> 
 <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Carlos-TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-<img src="https://miro.medium.com/max/318/1*p1TndLk3UsGPBsM7qHPZIw.png" alt="css3" height="30" width="40"/>
+<img align="center" alt="Carlos-StyledComponents" height="30" width="40" src="https://miro.medium.com/max/318/1*p1TndLk3UsGPBsM7qHPZIw.png"/>
 <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </p>
 <br>
