@@ -1,6 +1,6 @@
 ## 💻 Sobre
 
-O projeto é uma TODO List (Lista de tarefas)
+O projeto consiste em uma TODO List (Lista de tarefas)
 <br>
 <h3 align="left"><a href="https://lista-de-tarefas-carlosfallac.vercel.app/" target="_blank" rel="noopener noreferrer">Clique aqui para ver o projeto!</a><h3>
 <br>
