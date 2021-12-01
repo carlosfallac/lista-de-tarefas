@@ -28,4 +28,4 @@ O projeto consiste em uma TODO List (Lista de tarefas)
     - Rodar aplicativo
     $ npm start
 
-    - Acesse http://localhost:3000/ e navegue pelo site
+    - Acesse http://localhost:3000/ e navegue pela página
