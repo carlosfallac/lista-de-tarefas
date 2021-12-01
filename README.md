@@ -19,10 +19,10 @@ O projeto é uma TODO List (Lista de tarefas)
 
 ## 📋 Instalação
 
-    - Clonar repositorio
+    - Clonar repositório
     $ git clone https://github.com/carlosfallac/lista-de-tarefas.git && cd lista-de-tarefas
 
-    - Instalar dependencias
+    - Instalar dependências
     $ npm install
 
     - Rodar aplicativo
